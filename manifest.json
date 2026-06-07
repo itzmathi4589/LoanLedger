@@ -1,0 +1,17 @@
+{
+  "name": "LoanLedger",
+  "short_name": "LoanLedger",
+  "description": "Personal Loan Interest Tracker",
+  "start_url": "/LoanLedger/",
+  "display": "standalone",
+  "background_color": "#0a0c14",
+  "theme_color": "#4f8ef7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='url(%23g)'/><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%234f8ef7'/><stop offset='1' stop-color='%237c6af7'/></linearGradient></defs><text x='96' y='130' font-size='100' text-anchor='middle' fill='white' font-family='Arial'>₹</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
